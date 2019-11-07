@@ -1,4 +1,4 @@
-<img src="./doc/Logo.png" width="30%">
+<img src="./Logo.png" width="30%">
 
 ## Welcome to the SIPN South webpage
 
