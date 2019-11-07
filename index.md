@@ -16,9 +16,20 @@ _How well do current prediction systems forecast the seasonal evolution of circu
 ---
 
 ## Leadership team
+François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
+
 <p align="center">
 <img src="./pics/fm.jpg" height=200>  <img src="./pics/pr.jpg" height=200> <img src="./pics/cb.jpg" height=200> <img src="./pics/jf.jpg" height=200> 
 <img src="./pics/wh.jpg" height=200> <img src="./pics/jl.jpg" height=200>
+</p>
+
+<p align="center">
+<img src="./pics/fm.jpg" height=200>  
+<img src="./pics/pr.jpg" height=200>
+<img src="./pics/cb.jpg" height=200>
+<img src="./pics/jf.jpg" height=200> 
+<img src="./pics/wh.jpg" height=200>
+<img src="./pics/jl.jpg" height=200>
 </p>
 
 
