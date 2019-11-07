@@ -11,13 +11,10 @@ The need for reliable Antarctic sea-ice predictionsis increasing. Tourism in the
 ### Scientific goals of SIPN South
 SIPN South is driven by the following scientific question:
 
----
 
-<center>
-**_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_**
-</center>
+<center> **_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_** </center>
 
----
+
 
 ## Leadership team
 François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
