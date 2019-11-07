@@ -14,9 +14,14 @@ SIPN South is driven by the following scientific question:
 ---
 **Scientific questions**
 
-It works with almost all markdown flavours (the below blank line matters).
-
+* How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?*
 ---
+
+## Leadership team
+
+<img src="./pics/fm.jpg" width="30%">
+<img src="./pics/wh.jpg" width="30%">
+
 
 ## Contact
 [here](mailto:francois.massonnet@uclouvain.be)
