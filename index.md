@@ -19,7 +19,7 @@ SIPN South is driven by the following scientific question:
 
 ## Leadership team
 
-<img src="./pics/fm.jpg" height=2cm> <img src="./pics/wh.jpg" jeight=2cm>
+<img src="./pics/fm.jpg" height=200> <img src="./pics/wh.jpg" height=200>
 
 
 ## Contact
