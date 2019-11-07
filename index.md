@@ -55,4 +55,4 @@ François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
 </p>
 
 ## Contact
-[here](mailto:francois.massonnet@uclouvain.be)
+[Get in touch](mailto:francois.massonnet@uclouvain.be)
