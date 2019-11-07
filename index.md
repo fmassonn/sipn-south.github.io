@@ -13,11 +13,9 @@ SIPN South is driven by the following scientific question:
 
 ---
 
-<p align="center">
-  
+<center>
 **_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_**
-
-</p>
+</center>
 
 ---
 
