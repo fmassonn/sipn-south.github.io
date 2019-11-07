@@ -3,7 +3,20 @@
 <img src="./Logo.png" width="30%">
 </p>
 
-### What is SIPN South?
+### Antarctic at the crossroads
+Like many regions of our planet, the Antarctic is currently undergoing profound environmental changes. Not all of these changes are well understood, partly due to a lack of comprehensive observational datasets describing this region. The Antarctic is one of the most under-sampled places on Earth.
+
+The need for reliable Antarctic sea-ice predictionsis increasing. Tourism in the southern polar regions is booming, and intense observing campaigns are planned within the next few years, in the framework of the ongoing [Year Of Polar Prediction](http://www.polarprediction.net/yopp). For operational purposes, sea-ice conditions are one of the many challenges that face vessels operating in the Antarctic coastal region. Some parts of the Antarctic are experiencing expanding sea-ice extent while other areas are seeing multi‐year sea ice persisting in areas where, previously, that was not the norm. These changing conditions impact on science, science support and logistic operations in those regions. Advance notice of seasonal sea-ice conditions would help reduce costs associated with providing alternative operational logistics.
+
+### Scientific goals of SIPN South
+SIPN South is driven by the following scientific question:
+
+---
+**Scientific questions**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
 
 ## Contact
 [here](mailto:francois.massonnet@uclouvain.be)
