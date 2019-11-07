@@ -26,7 +26,7 @@ François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
 </p>
 
 <p align="center">
-<img src="./pics/fm.jpg" height=200>  
+<img src="./Logo.png" height=200>  
 </p>
 
 
