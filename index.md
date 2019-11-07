@@ -36,7 +36,7 @@ The project has three strategic objectives:
 
 The post-season reports of [2017-2018](./doc/SIPN-South_postseason-Feb-2018.pdf) and [2018-2019](./doc/SIPN-South_2018-2019_postseason.pdf) are available publicly.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://blogs.egu.eu/divisions/cr/2018/07/27/image-of-the-week-stuck-in-the-ice-could-have-it-been-predicted/ "EGU Cryosphere Blogs contribution")
 
 
 
