@@ -1,6 +1,6 @@
-<img src="./Logo.png" width="30%">
-
 ## Welcome to the SIPN South webpage
+
+<img src="./Logo.png" width="30%">
 
 ### What is SIPN South?
 
