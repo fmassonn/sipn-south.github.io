@@ -6,4 +6,4 @@
 ### What is SIPN South?
 
 ## Contact
-[here](francois.massonnet@uclouvain.be)
+[here](mailto:francois.massonnet@uclouvain.be)
