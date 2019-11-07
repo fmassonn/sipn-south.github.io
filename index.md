@@ -18,15 +18,25 @@ SIPN South is driven by the following scientific question:
 
 ---
   **_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_** 
+
+
 ---
 
 The project has three strategic objectives:
 
-1. Provide a focal point for seasonal outlooks of Antarctic sea ice (winter and summer), where the results are exchanged, compared, discussed and put in perspective with those from the Arctic thanks to interactions within SIPN;
+1. Provide a **focal point for seasonal outlooks of Antarctic sea ice**, where the results are exchanged, compared, discussed and put in perspective with those from the Arctic thanks to interactions within SIPN;
 
-2. Provide news and information on the state of Antarctic sea ice, highlight recent published research, report ongoing observational campaigns and disseminate upcoming events (conferences, workshops, webinars, et cetera);
+2. Provide news and information on the **state of Antarctic sea ice**, highlight recent published research, report ongoing observational campaigns and disseminate upcoming events (conferences, workshops, webinars, et cetera);
 
-3. Coordinate a realistic prediction exercise targeting austral summer 2019, in conjunction with the Year Of Polar Prediction (YOPP)’s Special Observing Period that will take place in January-February 2019.
+3. Coordinate **realistic prediction exercises** aligned with the Year Of Polar Prediction (YOPP)’s Special Observing Periods.
+
+
+
+## Reports, other material and media
+
+The post-season reports of [2017-2018](./doc/SIPN-South_postseason-Feb-2018.pdf) and [2018-2019](./doc/SIPN-South_2018-2019_postseason.pdf) are available publicly.
+
+[![https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg][1]][2]
 
 
 
