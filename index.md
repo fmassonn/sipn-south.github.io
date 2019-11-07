@@ -38,11 +38,14 @@ The project has three strategic objectives:
 
 *  EGU Cryosphere Blogs contribution
 
+<p align="center">
 [<img src="https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg" height="200px">](https://blogs.egu.eu/divisions/cr/2018/07/27/image-of-the-week-stuck-in-the-ice-could-have-it-been-predicted/)
+</p>
 
 * SIPN South findings after the first forecasting exercise
-
+<p align="center">
 [<img src="http://img.youtube.com/vi/MUeWapsdSwQ/0.jpg" height="200px">](http://www.youtube.com/watch?v=MUeWapsdSwQ)
+</p>
 
 ## Leadership team
 François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
