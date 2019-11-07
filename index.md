@@ -3,9 +3,9 @@
 <img src="./Logo.png" width="30%">
 </p>
 
-<span style="color:red">
-### !! NEWS !! 
-</span>
+
+### <span style="color:red"> !! NEWS !! </span>
+
 The [call](https://github.com/fmassonn/sipn-south-public/blob/master/doc/2019-2020/SIPNSouth_2019-2020_call.pdf) for the summer 2019-2020 forecasting exercise is <span style="color:blue">*OPEN*</span>
 
 ### Antarctic at the crossroads
