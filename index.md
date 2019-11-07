@@ -36,13 +36,8 @@ The project has three strategic objectives:
 
 * The post-season reports of [2017-2018](./doc/SIPN-South_postseason-Feb-2018.pdf) and [2018-2019](./doc/SIPN-South_2018-2019_postseason.pdf) are available publicly.
 
-*  [EGU Cryosphere Blogs contribution](https://blogs.egu.eu/divisions/cr/2018/07/27/image-of-the-week-stuck-in-the-ice-could-have-it-been-predicted/) 
-<img src="https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg" height="200px">
-
-![alt text](https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg)
-
-
-
+*  EGU Cryosphere Blogs contribution 
+[<img src="https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg" height="200px">](https://blogs.egu.eu/divisions/cr/2018/07/27/image-of-the-week-stuck-in-the-ice-could-have-it-been-predicted/)
 
 ## Leadership team
 François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
