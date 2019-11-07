@@ -36,7 +36,8 @@ The project has three strategic objectives:
 
 The post-season reports of [2017-2018](./doc/SIPN-South_postseason-Feb-2018.pdf) and [2018-2019](./doc/SIPN-South_2018-2019_postseason.pdf) are available publicly.
 
-[![https://blogs.egu.eu/divisions/cr/files/2018/07/Figure1-700x400.jpg][1]][2]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 
