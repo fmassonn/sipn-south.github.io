@@ -30,7 +30,7 @@ François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
 </p>
 
 <p align="center">
-<img src="./Logo.png" width="30%">
+<img src="./Logo.png" width="200px">
 </p>
 
 ## Contact
