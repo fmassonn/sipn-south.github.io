@@ -21,16 +21,8 @@ SIPN South is driven by the following scientific question:
 François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
 
 <p align="center">
-<img src="./pics/fm.jpg" height=200>  <img src="./pics/pr.jpg" height=200> <img src="./pics/cb.jpg" height=200> <img src="./pics/jf.jpg" height=200> 
-<img src="./pics/wh.jpg" height=200> <img src="./pics/jl.jpg" height=200>
-</p>
-
-<p align="center">
-<img src="./Logo.png" height=200>  
-</p>
-
-<p align="center">
-<img src="./Logo.png" width="200px">
+<img src="./pics/fm.jpg" height=200px>  <img src="./pics/pr.jpg" height=200px> <img src="./pics/cb.jpg" height=200px> <img src="./pics/jf.jpg" height=200px> 
+<img src="./pics/wh.jpg" height=200px> <img src="./pics/jl.jpg" height=200px>
 </p>
 
 ## Contact
