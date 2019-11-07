@@ -1,5 +1,5 @@
-## Welcome to the SIPN South webpage
 <p align="center">
+## Welcome to the SIPN South webpage
 <img src="./Logo.png" width="30%">
 </p>
 
