@@ -12,7 +12,9 @@ The need for reliable Antarctic sea-ice predictionsis increasing. Tourism in the
 SIPN South is driven by the following scientific question:
 
 ---
-_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_
+
+**_How well do current prediction systems forecast the seasonal evolution of circumpolar and regional Antarctic sea-ice conditions?_**
+
 ---
 
 ## Leadership team
