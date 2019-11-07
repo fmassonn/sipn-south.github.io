@@ -5,7 +5,9 @@
 
 ###  NEWS
  {: .gitlab-orange}
-  
+
+### GitLab Purple Heading
+{: .gitlab-purple}
 
 ### Antarctic at the crossroads
 Like many regions of our planet, the Antarctic is currently undergoing profound environmental changes. Not all of these changes are well understood, partly due to a lack of comprehensive observational datasets describing this region. The Antarctic is one of the most under-sampled places on Earth.
