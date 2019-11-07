@@ -1,6 +1,7 @@
 ## Welcome to the SIPN South webpage
-
-<img align="center" src="./Logo.png" width="30%">
+<p align="center">
+<img src="./Logo.png" width="30%">
+</p>
 
 ### What is SIPN South?
 
