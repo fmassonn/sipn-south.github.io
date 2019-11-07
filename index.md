@@ -1,6 +1,6 @@
 ## Welcome to the SIPN South webpage!
 <p align="center">
-<img src="./pics/Logo.png" height="200px"> <img src="./pics/fig1.png" height="200px">
+<img src="./pics/fm.jpg" height="200px"> <img src="./pics/fig1.png" height="200px">
 </p>
 
 
