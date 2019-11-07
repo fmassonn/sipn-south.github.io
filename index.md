@@ -4,7 +4,7 @@
 </p>
 
 ### !! NEWS !! 
-The [call](https://github.com/fmassonn/sipn-south-public/blob/master/doc/2019-2020/SIPNSouth_2019-2020_call.pdf) for the summer 2019-2020 forecasting exercise is <span style="color:blue">some *blue* text</span>!
+The [call](https://github.com/fmassonn/sipn-south-public/blob/master/doc/2019-2020/SIPNSouth_2019-2020_call.pdf) for the summer 2019-2020 forecasting exercise is *OPEN*.
 
 ### Antarctic at the crossroads
 Like many regions of our planet, the Antarctic is currently undergoing profound environmental changes. Not all of these changes are well understood, partly due to a lack of comprehensive observational datasets describing this region. The Antarctic is one of the most under-sampled places on Earth.
