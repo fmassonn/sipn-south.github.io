@@ -25,5 +25,9 @@ François Massonnet, Phil Reid, Cecilia Bitz, John Fyfe, Will Hobbs, Jan Lieser.
 <img src="./pics/wh.jpg" height=200px> <img src="./pics/jl.jpg" height=200px>
 </p>
 
+<img src="./Logo.png" height=200px>
+<img src="./Logo.png" height="200px">
+
+
 ## Contact
 [here](mailto:francois.massonnet@uclouvain.be)
