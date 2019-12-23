@@ -8,7 +8,7 @@
 <p align="center">
 <img src="./pics/2019-2020/probability.gif" height="200px">
 </p>
-### Call 2019-2020 ###
+### Call 2019-2020
 The **[call](./doc/2019-2020/SIPNSouth_2019-2020_call.pdf)** for the summer 2019-2020 forecasting exercise is now closed.
 
 ### Antarctic at the crossroads
