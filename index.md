@@ -1,10 +1,12 @@
 ## Welcome to the SIPN South webpage!
 <p align="center">
-<img src="./pics/Logo.png" height="200px"> <img src="./pics/fig1.png" height="200px">
+<img src="./pics/Logo.png" height="100px"> <img src="./pics/fig1.png" height="100px">
 </p>
 
 
 ### <span style="color:red"> !! NEWS !! </span>
+The **[initial outlook](./doc/2019-2020/SIPNSouth_initialassessment_2019-2020.pdf)** report is available!
+
 <p align="center">
 <img src="./pics/2019-2020/probability.gif" height="600px">
 </p>
