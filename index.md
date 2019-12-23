@@ -6,7 +6,7 @@
 
 ### <span style="color:red"> !! NEWS !! </span>
 <p align="center">
-<img src="./pics/2019-2020/probability.gif" height="200px">
+<img src="./pics/2019-2020/probability.gif" height="400px">
 </p>
 
 ### Call 2019-2020
