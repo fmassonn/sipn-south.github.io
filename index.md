@@ -5,11 +5,14 @@
 
 
 ### <span style="color:red"> !! NEWS !! </span>
-The **[initial outlook](./doc/2019-2020/SIPNSouth_initialassessment_2019-2020.pdf)** report is available!
+The **[post-season report](./doc/2019-2020/SIPN-South_2019-2020_postseason.pdf)** of the summer 2019-2020 experiment is now available!
 
 <p align="center">
-<img src="./pics/2019-2020/probability.gif" height="600px">
+<img src="./pics/2019-2020/iiee.png" height="600px">
 </p>
+
+### Interim report 2019-2020
+The **[initial assessment of SIPN South forecasts](./doc/2019-2020/SIPNSouth_initialassessment_2019-2020.pdf)** is now available.
 
 ### Call 2019-2020
 The **[call](./doc/2019-2020/SIPNSouth_2019-2020_call.pdf)** for the summer 2019-2020 forecasting exercise is now closed.
