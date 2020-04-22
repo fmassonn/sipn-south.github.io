@@ -8,7 +8,7 @@
 The **[post-season report](./doc/2019-2020/SIPN-South_2019-2020_postseason.pdf)** of the summer 2019-2020 experiment is now available!
 
 <p align="center">
-<img src="./pics/2019-2020/iiee.png" height="600px">
+<img src="./pics/2019-2020/iiee.png" >
 </p>
 
 ### Interim report 2019-2020
