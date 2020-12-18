@@ -5,7 +5,7 @@
 
 
 ### <span style="color:red"> !! NEWS !! </span>
-The call for austral summer 2020-2021 is **[open](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
+The initial assessment of the 2020-2021 forecasts is available **[here](./doc/2020-2021/SIPNSouth_2020-2021_initialassessment.pdf)**. The original call is **[here](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
 
 ### Past updates
 The **[post-season report](./doc/2019-2020/SIPN-South_2019-2020_postseason.pdf)** of the summer 2019-2020 experiment is now available!
