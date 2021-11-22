@@ -3,8 +3,10 @@
 <img src="./pics/Logo2.png" height="100px"> <img src="./pics/fig1.png" height="100px">
 </p>
 
+### <span style="color:red"> !!! NEWS !!! </span>
+Call for the 2021-2022 contributions is **OPEN[./doc/2021-2022/SIPNSouth_2021-2022_call.pdf]**
 
-### <span style="color:red"> !! NEWS !! </span>
+###  2020-2021 season
 The initial assessment of the 2020-2021 forecasts is available **[here](./doc/2020-2021/SIPNSouth_initialassessment_2020-2021.pdf)**. The original call is **[here](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
 
 ### Past updates
