@@ -4,7 +4,10 @@
 </p>
 
 ### <span style="color:red"> !!! NEWS !!! </span>
-Initial assessment of the 2021-2022 contributions is **[HERE](./doc/2021-2022/SIPNSouth_initialassessment_2021-2022.pdf)**
+The 2021-2022 post-season report is **[HERE](./doc/2021-2022/SIPN-South_2021-2022_postseason.pdf)**
+
+###
+Initial assessment of the 2021-2022 contributions is **[here](./doc/2021-2022/SIPNSouth_initialassessment_2021-2022.pdf)**
 
 ###  2020-2021 season
 The initial assessment of the 2020-2021 forecasts is available **[here](./doc/2020-2021/SIPNSouth_initialassessment_2020-2021.pdf)**. The original call is **[here](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
