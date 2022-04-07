@@ -4,6 +4,8 @@
 </p>
 
 ### <span style="color:red"> !!! NEWS !!! </span>
+The call for the Targeted Observing Period special experiment is **[HERE](./doc/TOP2022/SIPNSouth_TOP2022_call.pdf)**
+
 The 2021-2022 post-season report is **[HERE](./doc/2021-2022/SIPN-South_2021-2022_postseason.pdf)**
 
 ###
