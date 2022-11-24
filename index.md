@@ -4,11 +4,9 @@
 </p>
 
 ### <span style="color:red"> !!! NEWS !!! </span>
-The call for the Targeted Observing Period special experiment is **[HERE](./doc/TOP2022/SIPNSouth_TOP2022_call.pdf)**
+The call for the 2022-2023 experiment is **[HERE](./doc/2022-2023/SIPNSouth_2022-2023_call.pdf)**
 
-The 2021-2022 post-season report is **[HERE](./doc/2021-2022/SIPN-South_2021-2022_postseason.pdf)**
-
-###
+### 2021-2022 assessment
 Initial assessment of the 2021-2022 contributions is **[here](./doc/2021-2022/SIPNSouth_initialassessment_2021-2022.pdf)**
 
 ###  2020-2021 season
