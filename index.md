@@ -1,31 +1,65 @@
-## Welcome to the SIPN South webpage!
-<p align="center">
+
+
+## Welcome to the SIPN South project!
+
+<p align = "center">
 <img src="./pics/Logo2.png" height="200px"> 
 </p>
 
 ###  <span style="color:red"> 2022-2023 </span>
 
-
-The call for the 2022-2023 experiment is **[HERE](./doc/2022-2023/SIPNSouth_2022-2023_call.pdf)**
-
-### 2021-2022 assessment
-Initial assessment of the 2021-2022 contributions is **[here](./doc/2021-2022/SIPNSouth_initialassessment_2021-2022.pdf)**
-
-###  2020-2021 season
-The initial assessment of the 2020-2021 forecasts is available **[here](./doc/2020-2021/SIPNSouth_initialassessment_2020-2021.pdf)**. The original call is **[here](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
-
-### Past updates
-The **[post-season report](./doc/2019-2020/SIPN-South_2019-2020_postseason.pdf)** of the summer 2019-2020 experiment is now available!
+For the fifth consecutive year, SIPN South welcomes forecasts of circumpolar and regional sea ice area in the Southern Ocean. If you are interested in contributing, see the general procedure **[here](./doc/2022-2023/SIPNSouth_2022-2023_call.pdf)**
 
 <p align="center">
-<img src="./pics/2019-2020/iiee.png" >
+<img src="./pics/2022-2023/fig1.png" height="500px">
 </p>
 
-### Interim report 2019-2020
-The **[initial assessment of SIPN South forecasts](./doc/2019-2020/SIPNSouth_initialassessment_2019-2020.pdf)** is now available.
+**Fig. 1** _The 2022-2023 daily sea ice area forecasts from the SIPN South ensemble (colors). The superscripts indicate whether the contribution is from dynamical or from statistical models. Thick lines indicate ensemble medians and shadings indicate ensemble range (min-max). The dashed lines are the observed values from two satellite datasets_
 
-### Call 2019-2020
-The **[call](./doc/2019-2020/SIPNSouth_2019-2020_call.pdf)** for the summer 2019-2020 forecasting exercise is now closed.
+<p align="center">
+<img src="./pics/2022-2023/fig2.png" height="500px">
+</p>
+
+**Fig. 2** _Forecast distributions of the February 2023 mean Antarctic sea ice area, including the climatology (black)_
+
+
+
+The call for the 2022-2023 experiment is **[here](./doc/2022-2023/SIPNSouth_2022-2023_call.pdf)**
+
+### 2021-2022
+The post-season report of the summer 2021-2022 experiment is available **[here](./doc/2021-2022/SIPN-South_2021-2022_postseason.pdf)**
+
+An initial assessment of the 2021-2022 forecasts is available **[here](./doc/2021-2022/SIPNSouth_initialassessment_2021-2022.pdf)**. 
+
+The original call is **[here](./doc/2021-2022/SIPNSouth_2021-2022_call.pdf)**.
+
+###  2020-2021
+An initial assessment of the 2020-2021 forecasts is available **[here](./doc/2020-2021/SIPNSouth_initialassessment_2020-2021.pdf)**. 
+
+The original call is **[here](./doc/2020-2021/SIPNSouth_2020-2021_call.pdf)**.
+
+### 2019-2020
+The post-season report of the summer 2019-2020 experiment is available **[here](./doc/2019-2020/SIPN-South_2019-2020_postseason.pdf)**.
+
+An initial assessment of the 2019-2020 forecasts is available **[here](./doc/2019-2020/SIPNSouth_initialassessment_2019-2020.pdf)**.
+
+The original call is **[here](./doc/2019-2020/SIPNSouth_2019-2020_call.pdf)**
+
+
+### 2018-2019
+The post-season report of the summer 2018-2019 experiment is available **[here](./doc/2018-2019/SIPN-South_2018-2019_postseason.pdf)**.
+
+An initial assessment of the 2018-2019 forecasts is available **[here](./doc/2018-2019/SIPNSouth_initialassessment_2018-2019.pdf)**.
+
+The original call is **[here](./doc/2018-2019/SIPNSouth_2018-2019_call.pdf)**
+
+
+### 2017-2018
+The post-season report of the summer 2017-2018 experiment is available **[here](./doc/2017-2018/SIPN-South_2017-2018_postseason.pdf)**.
+
+An initial assessment of the 2017-2018 forecasts is available **[here](./doc/2017-2018/SIPNSouth_initialassessment_2017-2018.pdf)**.
+
+The original call is **[here](./doc/2017-2018/SIPNSouth_2017-2018_call.pdf)**
 
 ### Antarctic at the crossroads
 Like many regions of our planet, the Antarctic is currently undergoing profound environmental changes. Not all of these changes are well understood, partly due to a lack of comprehensive observational datasets describing this region. The Antarctic is one of the most under-sampled places on Earth.
@@ -49,11 +83,11 @@ The project has three strategic objectives:
 
 3. Coordinate **realistic prediction exercises** aligned with the Year Of Polar Prediction (YOPP)’s Special Observing Periods.
 
+### Open science and data access
 
+The data collected in the project is reusable under the Creative Commons license. The SIPN South project can be cloned at the following [Github URL](https://github.com/fmassonn/sipn-south-public). 
 
 ## Reports, other material and media
-
-* The post-season reports of [2017-2018](./doc/2017-2018/SIPN-South_postseason-Feb-2018.pdf) and [2018-2019](./doc/2018-2019/SIPN-South_2018-2019_postseason.pdf) are available publicly.
 
 *  EGU Cryosphere Blogs contribution
 
