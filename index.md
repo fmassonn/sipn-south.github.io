@@ -1,9 +1,11 @@
 ## Welcome to the SIPN South webpage!
 <p align="center">
-<img src="./pics/Logo2.png" height="100px"> <img src="./pics/fig1.png" height="100px">
+<img src="./pics/Logo2.png" height="200px"> 
 </p>
 
-### <span style="color:red"> !!! NEWS !!! </span>
+###  <span style="color:red"> 2022-2023 </span>
+
+
 The call for the 2022-2023 experiment is **[HERE](./doc/2022-2023/SIPNSouth_2022-2023_call.pdf)**
 
 ### 2021-2022 assessment
