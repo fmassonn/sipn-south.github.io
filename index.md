@@ -14,7 +14,7 @@ For the fifth consecutive year, SIPN South welcomes forecasts of circumpolar and
 <img src="./pics/2022-2023/fig1.png" height="500px">
 </p>
 
-**Fig. 1** _The 2022-2023 daily sea ice area forecasts from the SIPN South ensemble (colors). The superscripts indicate whether the contribution is from dynamical or from statistical models. Thick lines indicate ensemble medians and shadings indicate ensemble range (min-max). The dashed lines are the observed values from two satellite datasets_
+**Fig. 1** _The 2022-2023 daily sea ice area forecasts from the SIPN South ensemble (colors). The superscripts indicate whether the contribution is from dynamical or from statistical models. The dashed blue line is the ensemble median. The black thick line is the observed 30-yr climatological mean and the grey shading represents the climatological range (min-max). The dashed lines are the observed values from two satellite datasets_
 
 <p align="center">
 <img src="./pics/2022-2023/fig2.png" height="500px">
