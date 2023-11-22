@@ -8,7 +8,7 @@
 
 ###  <span style="color:red"> NEWS </span>
 
-
+The call of the 2023-2024 experiment is **[here](./doc/2023-2024/SIPNSouth_2022-2023_call.pdf)**
 
 ### Paper
 The SIPN South paper has just been published and is available in open access:
