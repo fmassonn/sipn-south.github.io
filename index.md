@@ -8,10 +8,10 @@
 
 ###  <span style="color:red"> NEWS </span>
 
-The call of the 2023-2024 experiment is **[here](./doc/2023-2024/SIPNSouth_2023-2024_call.pdf)**
+The post-season report of the 2023-2024 experiment is **[here](./doc/2023-2024/SIPNSouth_2023-2024_postseason.pdf)**
 
 ### Paper
-The SIPN South paper has just been published and is available in open access:
+The SIPN South paper has been published and is available in open access:
 
 Massonnet, F., Barreira, S., Barthélemy, A., Bilbao, R., Blanchard-Wrigglesworth, E., Blockley, E., Bromwich, D. H., Bushuk, M., Dong, X., Goessling, H. F., Hobbs, W., Iovino, D., Lee, W.-S., Li, C., Meier, W. N., Merryfield, W. J., Moreno-Chamarro, E., Morioka, Y., Li, X., … Yuan, X. (2023). SIPN South: Six years of coordinated seasonal Antarctic sea ice predictions. Frontiers in Marine Science, 10. https://www.frontiersin.org/articles/10.3389/fmars.2023.1148899
 
