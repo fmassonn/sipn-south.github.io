@@ -8,6 +8,10 @@
 
 ###  <span style="color:red"> NEWS </span>
 
+SIPN South has recently been endorsed by the World Weather Research Programme!
+
+###  <span style="color:red"> 2022-2023 </span>
+
 The post-season report of the 2023-2024 experiment is **[here](./doc/2023-2024/SIPNSouth_2023-2024_postseason.pdf)**
 
 ### Paper
