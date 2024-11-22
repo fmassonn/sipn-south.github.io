@@ -8,7 +8,7 @@ title: "Welcome to the SIPN South website!"
 
 The Sea ice Prediction Network South (SIPN South) aims to collect, compile and evaluate sea ice forecasts in the Southern Ocean on a real-time basis.
 
-<img src="/images/Logo2.png" height="25%" width="25%">  <img src="/images/BELSPO_logo.jpg" height="10%" width="10%"> 
+<img src="/images/Logo2.png" height="25%" width="25%"> 
 
 <div class="tiles">
 {% for post in site.posts %}
