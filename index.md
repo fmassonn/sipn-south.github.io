@@ -8,7 +8,8 @@
 
 ###  <span style="color:red"> NEWS </span>
 
-SIPN South has recently been endorsed by the World Weather Research Programme!
+- For the eigth consecutive year, SIPN South welcomes forecasts of circumpolar and regional sea ice area in the Southern Ocean. If you are interested in contributing, see the general procedure **[here](./doc/2024-2025/SIPNSouth_2024-2025_call.pdf)**
+- SIPN South has recently been endorsed by the World Weather Research Programme!
 
 ###  <span style="color:red"> 2023-2024 </span>
 
