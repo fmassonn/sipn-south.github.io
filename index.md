@@ -12,11 +12,11 @@ Here are the first results of the 2024-2025 forecasting season. Thanks to all gr
 The group forecast (median of ensemble means, same weight for all forecast) predicts below average conditions for February 2024. Moreover, two groups out of eleven predict that a new record will be broken.
 
 <p align = "center">
-<img src="./pics/2024-2025/fig1.png" height="200px"> 
+<img src="./pics/2024-2025/fig1.png" height="600px"> 
 </p>
 
 <p align = "center">
-<img src="./pics/2024-2025/fig2.png" height="200px"> 
+<img src="./pics/2024-2025/fig2.png" height="600px"> 
 </p>
 
 
