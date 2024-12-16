@@ -16,7 +16,7 @@ The group forecast (median of ensemble means, same weight for all forecast) pred
 </p>
 
 <p align = "center">
-<img src="./pics/2024-2025/fig2.png" height="600px"> 
+<img src="./pics/2024-2025/fig2.png" height="100%"> 
 </p>
 
 
