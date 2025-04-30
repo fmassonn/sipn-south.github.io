@@ -6,10 +6,17 @@
 <img src="./pics/Logo2.png" height="200px"> 
 </p>
 
-###  <span style="color:red"> 2024-2025 forecasts </span>
-Here are the first results of the 2024-2025 forecasting season. Thanks to all groups for their participation!
+###  <span style="color:red"> 2024-2025 forecasting season </span>
+The ninth forecasting season of SIPN South (1 December 2024-28 February 2025) is now over and we would like to thank, again, all the contributing groups for participating to this new edition.
 
-The group forecast (taken as the median of ensemble means, with the same weight applied for each ensemble mean) predicts below average conditions for February 2025. Moreover, two groups out of eleven predict that a new record will be broken.
+With 1.37 million km$^2$, the February 2025 mean Antarctic sea ice extent tied with 1993 to become the second lowest year on record (the absolute record is for 2023 with 1.15 million km$^2$), according to the [NSIDC sea ice extent derived from the sea ice index](ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/).
+
+<p align = "center">
+<img src="./pics/2024-2025/figTimeSeries.png" height="100%"> 
+</p>
+
+
+10 forecasters (out of 14 this year) had correctly predicted below-average February mean conditions. The SIPN South group forecast (taken as the median of ensemble means, with the same weight applied for each ensemble mean) had also correctly predicted below average conditions for February 2025.
 
 <p align = "center">
 <img src="./pics/2024-2025/fig1.png" height="100%"> 
@@ -17,6 +24,12 @@ The group forecast (taken as the median of ensemble means, with the same weight 
 
 <p align = "center">
 <img src="./pics/2024-2025/fig2.png" height="100%"> 
+</p>
+
+We quantify the performance of the forecasting systems using the Continuous Rank Probability Score (CRPS) that accounts for the mean bias and the variance in the forecasts. This year, about half of the forecasts (7 out of 15) provided forecasts with a better (i.e., lower) CRPS than the climatological forecast constructed by taking the 30 last years as an ensemble. This demonstrates the usefulness of collecting forecasts as they provide more reliable information than the historical ensemble alone
+
+<p align = "center">
+<img src="./pics/2024-2025/CRPS.png" height="100%"> 
 </p>
 
 
