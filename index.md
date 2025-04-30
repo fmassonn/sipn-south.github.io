@@ -9,7 +9,7 @@
 ###  <span style="color:red"> 2024-2025 forecasting season </span>
 The ninth forecasting season of SIPN South (1 December 2024-28 February 2025) is now over and we would like to thank, again, all the contributing groups for participating to this new edition.
 
-With 1.37 million km$^2$, the February 2025 mean Antarctic sea ice extent tied with 1993 to become the second lowest year on record (the absolute record is for 2023 with 1.15 million km$^2$), according to the [NSIDC sea ice extent derived from the sea ice index](ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/).
+With 1.37 million km<sup>2</sup>, the February 2025 mean Antarctic sea ice extent tied with 1993 to become the second lowest year on record (the absolute record is for 2023 with 1.15 million km<sup>2</sup>), according to the [NSIDC sea ice extent derived from the sea ice index](ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/).
 
 <p align = "center">
 <img src="./pics/2024-2025/figTimeSeries.png" height="100%"> 
