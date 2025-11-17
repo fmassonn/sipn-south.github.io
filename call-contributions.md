@@ -2,7 +2,7 @@
 
 ## Summer 2025-2026 sea ice prediction experiment
 
-<p style="color: red;"> Submission deadline: Monday December 9th, 2024 </p>
+<p style="color: red;"> Submission deadline: Monday December 8th, 2025 </p>
 
 ### Overview and objectives
 
@@ -89,6 +89,33 @@ Antarctic (circumpolar) monthly mean sea-ice area from forecasts initialized in 
 <u>File name</u>: `<group-name>_<forecast-id>_2025mm-2025MM_total-area-long-forecast.txt` where `<group-name>` is the name of the participating group, `<forecast-id>` is a 3-digit identifier (001, 002, ...), `mm` and `MM` are the first and last months of the forecasts, respectively.
 
 <u>Remarks</u>: Same rules for ensemble forecast indexing as in diagnostic 1.
+
+
+### Post-season forecast verification products
+
+The forecasts will be assessed against two observational references:
+- The Near-Real-Time DMSP SSMIS Daily Polar Gridded Sea-Ice Concentrations, Version 2 ([Data Set ID: NSIDC-0081](http://nsidc.org/data/nsidc-0081)).
+- The OSI SAF SSMIS Sea-Ice Concentration Maps on 10 km Polar Stereographic Grid ([Data Set ID: OSI-401-d](https://osi-saf.eumetsat.int/products/osi-401-d)).
+- 
+Both data sets are publicly available. Sea ice areas will be computed directly from the sea ice concentration fields.
+
+### Submission process
+
+The submission of a forecast by a group is done in two steps. 
+
+1.	First, the contributing group gathers the diagnostics (see “Diagnostics Requested” above) in an online archive of its choice. The archive must be accessible with a simple URL, so that the information can be retrieved simply. A Google Drive, a Dropbox archive, WeTransfer or a public FTP are all fine.
+2.	Then, the groups fill *[*this online form**](https://forms.gle/dq6eii8omJGA7uYj9) where they provide meta-data such as forecasting method, contact information but also the link where their data can be retrieved from. In case this information has not changed compared your submission last year, do not hesitate to indicate “see last year” in the fields.
+Groups are invited to send an [e-mail to François Massonnet](mailto:francois.massonnet@uclouvain.be) upon completion of the submission process to ensure that the data and meta-data have been well received.
+
+The deadline for submitting the online form (containing the link pointing towards the data) is the <p style="color: red;"> Monday 8th of December, 2025 </p>.
+
+### Timeline
+
+- First processing of forecasts: 10-15th of December 2025.
+- Post season report: 15 March 2025
+
+### Open access statement
+All forecast and verification data will be made publicly available, as for the previous exercises. [The SIPN South Github repository ](https://github.com/fmassonn/sipn-south-public)hosts all data collected up to now from the project.
 
 
 ### Interested in following SIPN South?
