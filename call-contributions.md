@@ -28,8 +28,7 @@ Units must be 10⁶ km².
 
 Numbers must be rounded to four decimal digits, and trailing zeroes must be included.
 
-File name: <span style="font-family: 'Courier New', monospace;"> `<group-name>_<forecast-id>_20241201-20250228_total-area.txt` />
- </span> 
+File name: <`<group-name>_<forecast-id>_20241201-20250228_total-area.txt`
 
 <group-name>_<forecast-id>_20241201-20250228_total-area.txt
 
