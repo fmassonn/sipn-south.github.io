@@ -112,7 +112,7 @@ The deadline for submitting the online form (containing the link pointing toward
 ### Timeline
 
 - First processing of forecasts: 10-15th of December 2025.
-- Post season report: 15 March 2025
+- Post season report: 15 March 2026
 
 ### Open access statement
 All forecast and verification data will be made publicly available, as for the previous exercises. [The SIPN South Github repository ](https://github.com/fmassonn/sipn-south-public)hosts all data collected up to now from the project.
