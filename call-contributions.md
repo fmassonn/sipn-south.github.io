@@ -8,9 +8,7 @@
 
 The Sea Ice Prediction Network South (SIPN South) is pleased to invite contributors to participate in the ninth coordinated sea-ice prediction experiment in the Southern Ocean. 
 
-Over the past eight years, we have received more than 4000 forecasts from 29 unique contributors (institutions or individuals) across five continents. 
-
-We warmly thank all contributors for their interests, efforts and feedbacks. An evaluation of the forecasts collected since 2017 is available in [Massonnet et al. (2023)]([url](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1148899/full)). All SIPN South contributors are automatically invited as co-authors on future papers.
+Over the past eight years, we have received more than 4000 forecasts from 29 unique contributors (institutions or individuals) across five continents. We warmly thank all contributors for their interests, efforts and feedbacks. An evaluation of the forecasts collected since 2017 is available in [Massonnet et al. (2023)](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1148899/full). All SIPN South contributors are automatically invited as co-authors on future papers.
 
 Here, we outline the protocol for contributing to the summer 2025-2026 experiment. The protocol is the same as last year. All groups are invited to participate regardless of the approach they follow.
 
@@ -18,19 +16,20 @@ If the above schedule is too tight but a delayed contribution would still be pos
 
 ### Diagnostics requested
 
-Participants are invited to issue from one to five of the following diagnostics, ordered by descending priority. The submission process is described at the end of this document.
+Participants are invited to issue from one to five of the following diagnostics, ordered by descending priority. The submission process is described at the end of this page.
 The diagnostics are:
 
 *1. High priority*
 
-Diagnostic: Antarctic (circumpolar) daily mean sea-ice area from December 1st 2024 to February 28th 2025 included (90 days).
+Diagnostic: Antarctic (circumpolar) daily mean sea-ice area from December 1st 2025 to February 28th 2026 included (90 days).
 
 Format: One text file with one row and 90 comma-separated values, each expressing daily sea-ice area for the 31 + 31 + 28 days of the December–February period.
 Units must be 10⁶ km².
 
 Numbers must be rounded to four decimal digits, and trailing zeroes must be included.
 
-File name: <span style="font-family: 'Courier New', monospace;">This text uses Courier New</span> 
+File name: <span style="font-family: 'Courier New', monospace;"> <group-name>_<forecast-id>_20241201-20250228_total-area.txt />
+ </span> 
 
 <group-name>_<forecast-id>_20241201-20250228_total-area.txt
 
