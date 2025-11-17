@@ -36,7 +36,7 @@ File name: <span style="font-family: 'Courier New', monospace;">This text uses C
 
 <group-name> is the name of the participating group (university, research center, institution)
 
-<forecast-id> is a 3-digit identifier for the forecast (001, 002, …)
+<forecast-id> is a 3-digit identifier for the forecast (001, 002, ...)
 
 Remarks:
 Ensemble forecasts are welcome. Please keep one file per forecast and increment each time the <forecast-id> by one unit: 001 for the first forecast, 002 for the second, etc.
