@@ -6,9 +6,10 @@ logo: /sipn-south.github.io/images/Logo2.png
 teaser: /sipn-south.github.io/images/seaice.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://fmassonn.github.io/
+baseurl: /sipn-south.github.io/
 feed:
   path: atom.xml
-baseurl: /sipn-south.github.io/
+
 
 
 # Jekyll configuration
