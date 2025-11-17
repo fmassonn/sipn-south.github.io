@@ -5,8 +5,7 @@ description: "Coordinating sea ice forecasts for the Southern Ocean"
 logo: /sipn-south.github.io/images/Logo2.png 
 teaser: /sipn-south.github.io/images/seaice.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://fmassonn.github.io/
-baseurl: /sipn-south.github.io/
+url: https://fmassonn.github.io/sipn-south.github.io/
 feed:
   path: atom.xml
 
