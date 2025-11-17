@@ -60,7 +60,7 @@ Second row: 10° ≤ longitude < 20°
 - A land–sea mask is provided through the variable `sftof` (percentage of the grid cell covered by ocean, units %).
 - Areas of grid cells are provided through the variable `areacello` (units m²).
 
-<u>File name</u>: `<group-name>_<forecast-id>_20241201-20250228_concentration.nc`
+<u>File name</u>: `<group-name>_<forecast-id>_20251201-20260228_concentration.nc`
 
 <u>Remarks</u>: Same rules for ensemble forecast indexing as in diagnostic 1.
 
@@ -82,11 +82,11 @@ Second row: 10° ≤ longitude < 20°
 **5. Low priority (long forecasts)**
 
 <u>Diagnostic</u>:
-Antarctic (circumpolar) monthly mean sea-ice area from forecasts initialized in 2024 (any date) and extended at least 6 months into 2025.
+Antarctic (circumpolar) monthly mean sea-ice area from forecasts initialized in 2025 (any date) and extended at least 6 months into 2026.
 
 <u>Format</u>: One text file with one row and comma-separated monthly values. Units must be 10⁶ km². Numbers must be rounded to four decimal digits with trailing zeroes.
 
-<u>File name</u>: `<group-name>_<forecast-id>_2025mm-2025MM_total-area-long-forecast.txt` where `<group-name>` is the name of the participating group, `<forecast-id>` is a 3-digit identifier (001, 002, ...), `mm` and `MM` are the first and last months of the forecasts, respectively.
+<u>File name</u>: `<group-name>_<forecast-id>_2025mm-2026MM_total-area-long-forecast.txt` where `<group-name>` is the name of the participating group, `<forecast-id>` is a 3-digit identifier (001, 002, ...), `mm` and `MM` are the first and last months of the forecasts, respectively.
 
 <u>Remarks</u>: Same rules for ensemble forecast indexing as in diagnostic 1.
 
