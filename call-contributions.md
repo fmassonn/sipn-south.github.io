@@ -21,17 +21,17 @@ If the above schedule is too tight but a delayed contribution would still be pos
 Participants are invited to issue from one to five of the following diagnostics, ordered by descending priority. The submission process is described at the end of this document.
 The diagnostics are:
 
-1. High priority
+*1. High priority*
 
-Diagnostic:
-Antarctic (circumpolar) daily mean sea-ice area from December 1st 2024 to February 28th 2025 included (90 days).
+Diagnostic: Antarctic (circumpolar) daily mean sea-ice area from December 1st 2024 to February 28th 2025 included (90 days).
 
-Format:
-One text file with one row and 90 comma-separated values, each expressing daily sea-ice area for the 31 + 31 + 28 days of the December–February period.
+Format: One text file with one row and 90 comma-separated values, each expressing daily sea-ice area for the 31 + 31 + 28 days of the December–February period.
 Units must be 10⁶ km².
+
 Numbers must be rounded to four decimal digits, and trailing zeroes must be included.
 
-File name:
+File name: <span style="font-family: 'Courier New', monospace;">This text uses Courier New</span> 
+
 <group-name>_<forecast-id>_20241201-20250228_total-area.txt
 
 <group-name> is the name of the participating group (university, research center, institution)
