@@ -13,3 +13,8 @@ The Sea ice Prediction Network South (SIPN South) aims to collect, compile and e
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+## Recent News
+
+- The call for the 9th forecasting season is OPEN.
+- SIPN South has recently been endorsed by the World Weather Research Programme!
