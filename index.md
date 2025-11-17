@@ -17,4 +17,4 @@ The Sea ice Prediction Network South (SIPN South) aims to collect, compile and e
 ## Recent News
 
 - The call for the 9th forecasting season is OPEN.
-- SIPN South has recently been endorsed by the World Weather Research Programme!
+- SIPN South has recently been [endorsed by the World Weather Research Programme](Linking with the Polar Coupled Analysis and Prediction for Services (PCAPS) Project), linking with the Polar Coupled Analysis and Prediction for Services (PCAPS) Project!
