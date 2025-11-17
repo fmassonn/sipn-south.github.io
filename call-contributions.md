@@ -19,7 +19,7 @@ If the above schedule is too tight but a delayed contribution would still be pos
 Participants are invited to issue from one to five of the following diagnostics, ordered by descending priority. The submission process is described at the end of this page.
 The diagnostics are:
 
-*1. High priority*
+**1. High priority**
 
 Diagnostic: Antarctic (circumpolar) daily mean sea-ice area from December 1st 2025 to February 28th 2026 included (90 days).
 
@@ -32,72 +32,50 @@ File name: <`<group-name>_<forecast-id>_20251201-20260228_total-area.txt` where 
 
 Remarks: ensemble forecasts are welcome. Please keep one file per forecast and increment each time the `<forecast-id>` by one unit: `001` for the first forecast, `002` for the second, etc. If only one forecast is submitted, set `<forecast-id>` to `001`.
 
-2. Medium priority
+**2. Medium priority**
 
-Diagnostic:
-February Antarctic daily mean sea-ice area per 10° longitude bin, from December 1st 2024 to February 28th 2025 included (90 days).
+Diagnostic: February Antarctic daily mean sea-ice area per 10° longitude bin, from December 1st 2025 to February 28th 2026 included (90 days).
 
-Format:
-A text file with 36 rows each displaying 90 comma-separated values following the same requirements as diagnostic 1.
+Format: One text file with 36 rows each displaying 90 comma-separated values following the same requirements as diagnostic 1.
+
 Each row corresponds to a 10° longitude bin:
 
 First row: 0° ≤ longitude < 10°
 
 Second row: 10° ≤ longitude < 20°
-
-…
-
+...
 36th row: 350° ≤ longitude < 360°
 
-File name:
-<group-name>_<forecast-id>_20241201-20250228_regional-area.txt
 
-Remarks:
-Same rules for ensemble forecasts and <forecast-id> as in diagnostic 1.
+File name: `<group-name>_<forecast-id>_20251201-20260228_regional-area.txt`
 
-3. Low priority
+Remarks: Same rules for ensemble forecast indexing as in diagnostic 1.
 
-Diagnostic:
-February Antarctic daily mean sea-ice concentration
 
-Format:
-A NetCDF file with 90 timesteps (one per day from December 1st 2024 to February 28th 2025).
-Each timestep displays the spatial field of sea-ice concentration.
-The file format must follow CMIP6 conventions:
+**3. Low priority**
 
-Sea-ice concentration is defined as the fraction of the grid cell covered by sea ice, is named siconc, and is expressed in %.
+Diagnostic: February Antarctic daily mean sea-ice concentration
 
-Longitude and latitude are reported under variables longitude and latitude.
+Format: A NetCDF file with 90 timesteps (one per day from December 1st 2025 to February 28th 2026). Each timestep displays the spatial field of sea-ice concentration. The file format must follow CMIP6 conventions:
+- Sea-ice concentration is defined as the fraction of the grid cell covered by sea ice, is named siconc, and is expressed in %.
+- Longitude and latitude are reported under variables `longitude` and `latitude`.
+- A land–sea mask is provided through the variable `sftof` (percentage of the grid cell covered by ocean, units %).
+- Areas of grid cells are provided through the variable `areacello` (units m²).
 
-A land–sea mask is provided through sftof (percentage of the grid cell covered by ocean, units %).
+File name: `<group-name>_<forecast-id>_20241201-20250228_concentration.nc`
 
-Areas of grid cells are provided through areacello (m²).
+Remarks: Same rules for ensemble forecast indexing as in diagnostic 1.
 
-File name:
-<group-name>_<forecast-id>_20241201-20250228_concentration.nc
+**4. Low priority**
 
-Remarks:
-Same rules for ensemble forecasts and <forecast-id> as in diagnostic 1.
+Diagnostic: February Antarctic daily mean grid cell thickness (or equivalently: mean sea-ice volume per unit grid cell area, or actual sea-ice thickness × sea-ice concentration)
 
-4. Low priority
-
-Diagnostic:
-February Antarctic daily mean grid cell thickness
-(or equivalently: mean sea-ice volume per unit grid cell area, or actual sea-ice thickness × sea-ice concentration)
-
-Format:
-A NetCDF file with 90 timesteps (one per day from December 1st 2024 to February 28th 2025).
-Each timestep displays the spatial field of mean grid cell thickness.
-The file format must follow CMIP6 conventions:
-
-Mean grid cell sea-ice thickness is calculated by dividing sea-ice volume by grid cell area, or multiplying actual sea-ice thickness by concentration.
-Following CMIP6 conventions, this variable is named sivol and has units of meters.
-
-Longitude and latitude are reported under longitude and latitude.
-
-Land–sea mask: sftof (% ocean).
-
-Grid cell areas: areacello (m²).
+Format: A NetCDF file with 90 timesteps (one per day from December 1st 2025 to February 28th 2026). Each timestep displays the spatial field of mean grid cell thickness. The file format must follow CMIP6 conventions:
+- Mean grid cell sea-ice thickness is calculated by dividing sea-ice volume by grid cell area, or multiplying actual sea-ice thickness by concentration.
+- Following CMIP6 conventions, this variable is named `sivol` and has units of meters.
+- Longitude and latitude are reported under the variables `longitude` and `latitude`.
+- A land-sea mask is provided through the variable `sftof` (percentage of the grid cell covered by ocean, units %).
+- Areas of grid cells are provided through the variable `areacello (units m²)`.
 
 File name:
 <group-name>_<forecast-id>_20241201-20250228_volume.nc
