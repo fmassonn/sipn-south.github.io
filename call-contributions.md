@@ -104,10 +104,10 @@ Both data sets are publicly available. Sea ice areas will be computed directly f
 The submission of a forecast by a group is done in two steps. 
 
 1.	First, the contributing group gathers the diagnostics (see “Diagnostics Requested” above) in an online archive of its choice. The archive must be accessible with a simple URL, so that the information can be retrieved simply. A Google Drive, a Dropbox archive, WeTransfer or a public FTP are all fine.
-2.	Then, the groups fill *[*this online form**](https://forms.gle/dq6eii8omJGA7uYj9) where they provide meta-data such as forecasting method, contact information but also the link where their data can be retrieved from. In case this information has not changed compared your submission last year, do not hesitate to indicate “see last year” in the fields.
+2.	Then, the groups fill [**this online form**](https://forms.gle/dq6eii8omJGA7uYj9) where they provide meta-data such as forecasting method, contact information but also the link where their data can be retrieved from. In case this information has not changed compared your submission last year, do not hesitate to indicate “see last year” in the fields.
 Groups are invited to send an [e-mail to François Massonnet](mailto:francois.massonnet@uclouvain.be) upon completion of the submission process to ensure that the data and meta-data have been well received.
 
-The deadline for submitting the online form (containing the link pointing towards the data) is the <p style="color: red;"> Monday 8th of December, 2025 </p>.
+The deadline for submitting the online form (containing the link pointing towards the data) is the <p style="color: red;"> Monday December 8th, 2025 </p>.
 
 ### Timeline
 
