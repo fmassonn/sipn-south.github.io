@@ -28,11 +28,9 @@ Units must be 10⁶ km².
 
 Numbers must be rounded to four decimal digits, and trailing zeroes must be included.
 
-File name: <`<group-name>_<forecast-id>_20241201-20250228_total-area.txt` where `<group-name>` is the name of the participating group (university, research center, institution), `<forecast-id>` is a 3-digit identifier for the forecast (001, 002, ...).
+File name: <`<group-name>_<forecast-id>_20251201-20260228_total-area.txt` where `<group-name>` is the name of the participating group (university, research center, institution) and `<forecast-id>` is a 3-digit identifier for the forecast (001, 002, ...).
 
-Remarks:
-Ensemble forecasts are welcome. Please keep one file per forecast and increment each time the <forecast-id> by one unit: 001 for the first forecast, 002 for the second, etc.
-If only one forecast is submitted, set <forecast-id> to 001.
+Remarks: ensemble forecasts are welcome. Please keep one file per forecast and increment each time the `<forecast-id>` by one unit: `001` for the first forecast, `002` for the second, etc. If only one forecast is submitted, set `<forecast-id>` to `001`.
 
 2. Medium priority
 
