@@ -16,5 +16,6 @@ The Sea ice Prediction Network South (SIPN South) aims to collect, compile and e
 
 ## Recent News
 
+- **18 December 2025.** Preliminary analyses for the forecasting season are available!
 - **17 November 2025.** The call for the 9th forecasting season is OPEN.
 - **20 November 2024.** SIPN South has recently been [endorsed by the World Weather Research Programme](Linking with the Polar Coupled Analysis and Prediction for Services (PCAPS) Project), linking with the Polar Coupled Analysis and Prediction for Services (PCAPS) Project!
