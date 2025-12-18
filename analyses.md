@@ -21,6 +21,10 @@ We warmly thank the following groups for contributing a forecast this year:
 | 9 | UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     | SIA+rSIA+SIC+SIV            |
 
 
+<img src="./pics/fig2_paper.png" alt="isolated" width="200"/>
+
 ### Preliminary analyses
 
-<img src=".png" alt="isolated" width="200"/>
+
+<img src="./pics/fig1.png" alt="isolated" width="200"/>
+<img src="./pics/fig2.png" alt="isolated" width="200"/>
