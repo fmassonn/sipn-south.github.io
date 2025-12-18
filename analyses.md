@@ -20,3 +20,6 @@ We warmly thank the following groups for contributing a forecast this year:
 | 8 | SYSU/SML         | SYSU/SML-KNN            | Statistical model               | 1              | 1st  December       | SIA+rSIA+SIC                |
 | 9 | UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     | SIA+rSIA+SIC+SIV            |
 
+
+### Preliminary analyses
+
