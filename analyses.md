@@ -23,3 +23,4 @@ We warmly thank the following groups for contributing a forecast this year:
 
 ### Preliminary analyses
 
+<img src=".png" alt="isolated" width="200"/>
