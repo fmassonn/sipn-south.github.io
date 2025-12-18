@@ -12,5 +12,11 @@ We warmly thank the following groups for contributing a forecast this year:
 |---|------------------|-------------------------|---------------------------------|----------------|---------------------|-----------------------------|
 | 1 | AWI              | AWI-CPS                 | Dynamical model                 | 30             | 30th November       | SIA+rSIA+SIC+SIV            |
 | 2 | CMCC             | cmcc                    | Dynamical model                 | 50             | 1st  November       | SIA+rSIA+SIC                |
-| 1 | UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     | SIA+rSIA+SIC+SIV            |
-|
+| 3 | IOCAS            | IOCAS-SIPnet            | Statistical model               | 5              | 1st  December       | SIA+rSIA+SIC                |
+| 4 | Lamont           | Lamont                  | Statistical model               | 1              | 30th November       | SIA+rSIA+SIC (interpolated) |
+| 5 | Met Office       | MetOffice               | Dynamical model                 | 42             | 30th November       | SIA+rSIA+SIC                |
+| 6 | SYSU/SML         | SYSU/SML-ConvLSTM       | Statistical model               | 1              | 1st  December       | SIA                         |
+| 7 | SYSU/SML         | SYSU/SML-MLM            | Statistical model               | 1              | 1st  December       | SIA+rSIA+SIC                |
+| 8 | SYSU/SML         | SYSU/SML-KNN            | Statistical model               | 1              | 1st  December       | SIA+rSIA+SIC                |
+| 9 | UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     | SIA+rSIA+SIC+SIV            |
+
