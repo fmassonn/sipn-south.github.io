@@ -8,11 +8,11 @@ Due to the cessation of the production of the OSI-401-b product, the analyses fr
 
 We warmly thank the following groups for contributing a forecast this year:
 
-| # | Contributor name | Short name (in figures) | Forecasting method              | Ensemble size  | Initialization date* | Diagnostics provided        |
-|---|------------------|-------------------------|---------------------------------|----------------|---------------------|-----------------------------|
-| 1 | AWI              | AWI-CPS                 | Dynamical model                 | 30             | 30th November       | SIA+rSIA+SIC+SIV            |
+| # | Contributor name | Short name (in figures) | Forecasting method              | Ensemble size  | Initialization date* | Forecast submission date   | Diagnostics provided        |
+|---|------------------|-------------------------|---------------------------------|----------------|---------------------|-----------------------------|-----------------------------|
+| 1 | AWI              | AWI-CPS                 | Dynamical model                 | 30             | 30th November       |  10th December 2025         | SIA+rSIA+SIC+SIV            |
 | 2 | CMCC             | cmcc                    | Dynamical model                 | 50             | 1st  November       | SIA+rSIA+SIC                |
-| 3 | Climatological forecast | climatology                                        | 30             | 28 February 2025    | SIA+rSIA+SIC
+| 3 | Climatological forecast                    | climatology                     | 30             | 28 February 2025    | SIA+rSIA+SIC                |
 | 3 | IOCAS            | IOCAS-SIPnet            | Statistical model               | 5              | 1st  December       | SIA+rSIA+SIC                |
 | 4 | Lamont           | Lamont                  | Statistical model               | 1              | 30th November       | SIA+rSIA+SIC (interpolated) |
 | 5 | Met Office       | MetOffice               | Dynamical model                 | 42             | 30th November       | SIA+rSIA+SIC                |
