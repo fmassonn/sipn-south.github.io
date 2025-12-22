@@ -12,7 +12,8 @@ We warmly thank the following groups for contributing a forecast this year:
 |---|------------------|-------------------------|---------------------------------|----------------|---------------------|-----------------------------|-----------------------------|
 | 1 | AWI              | AWI-CPS                 | Dynamical model                 | 30             | 30th November 2025  |  10th December 2025         | SIA+rSIA+SIC+SIV            |
 | 2 | CMCC             | cmcc                    | Dynamical model                 | 50             | 1st  November 2025  |  10th December 2025         | SIA+rSIA+SIC                |
-| 3 | Climatological forecast | climatology      | Statistical; ensemble of all 30 previous years   | 30         | 28 February 2025    |  18th December 2025         | SIA+rSIA+SIC                |
+| 3 | Climatological forecast | climatology      | Statistical; ensemble of all 30 previous years   | 30         | 28 February 2025    |  18th December 2025         | SIA+rSIA+SIC   |
+| 4 | ECMWF            | ecmwf                   | Dynamical model                 | 51             | 1st December        |  22nd December 2025         | SIA+rSIA                    |
 | 4 | IOCAS            | IOCAS-SIPnet            | Statistical model               | 5              | 1st  December       |  12th December 2025         | SIA+rSIA+SIC                |
 | 5 | Lamont           | Lamont                  | Statistical model               | 1              | 30th November       |  10th December 2025         | SIA+rSIA+SIC (interpolated) |
 | 6 | Met Office       | MetOffice               | Dynamical model                 | 42             | 30th November       |  2nd December 2025          | SIA+rSIA+SIC                |
