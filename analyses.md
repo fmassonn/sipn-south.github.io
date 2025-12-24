@@ -11,16 +11,18 @@ We warmly thank the following groups for contributing a forecast this year:
 | # | Contributor name | Short name (in figures) | Forecasting method              | Ensemble size  | Initialization date* | Forecast submission date   | Diagnostics provided        |
 |---|------------------|-------------------------|---------------------------------|----------------|---------------------|-----------------------------|-----------------------------|
 | 1 | AWI              | AWI-CPS                 | Dynamical model                 | 30             | 30th November 2025  |  10th December 2025         | SIA+rSIA+SIC+SIV            |
-| 2 | CMCC             | cmcc                    | Dynamical model                 | 50             | 1st  November 2025  |  10th December 2025         | SIA+rSIA+SIC                |
-| 3 | Climatological forecast | climatology      | Statistical; ensemble of all 30 previous years   | 30         | 28 February 2025    |  18th December 2025         | SIA+rSIA+SIC   |
-| 4 | ECMWF            | ecmwf                   | Dynamical model                 | 51             | 1st December        |  22nd December 2025         | SIA+rSIA                    |
-| 5 | IOCAS            | IOCAS-SIPnet            | Statistical model               | 5              | 1st  December       |  12th December 2025         | SIA+rSIA+SIC                |
-| 6 | Lamont           | Lamont                  | Statistical model               | 1              | 30th November       |  10th December 2025         | SIA+rSIA+SIC (interpolated) |
-| 7 | Met Office       | MetOffice               | Dynamical model                 | 42             | 30th November       |  2nd December 2025          | SIA+rSIA+SIC                |
-| 8 | SYSU/SML         | SYSU/SML-ConvLSTM       | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA                         |
-| 9 | SYSU/SML         | SYSU/SML-MLM            | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA+rSIA+SIC                |
-| 10 | SYSU/SML         | SYSU/SML-KNN            | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA+rSIA+SIC                |
-| 11| UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     |  15th December 2025         | SIA+rSIA+SIC+SIV            |
+| 2 | BCCR              | BCCR                | Dynamical model                 | 60             | 1st December 2025  |  22nd December 2025         | SIA+rSIA            |
+| 3 | CMCC             | cmcc                    | Dynamical model                 | 50             | 1st  November 2025  |  10th December 2025         | SIA+rSIA+SIC                |
+| 4 | Climatological forecast | climatology      | Statistical; ensemble of all 30 previous years   | 30         | 28 February 2025    |  18th December 2025         | SIA+rSIA+SIC   |
+| 5 | ECMWF            | ecmwf                   | Dynamical model                 | 51             | 1st December        |  22nd December 2025         | SIA+rSIA                    |
+| 6 | IOCAS            | IOCAS-SIPnet            | Statistical model               | 5              | 1st  December       |  12th December 2025         | SIA+rSIA+SIC                |
+| 7 | Lamont           | Lamont                  | Statistical model               | 1              | 30th November       |  10th December 2025         | SIA+rSIA+SIC (interpolated) |
+| 8 | Meier (NSIDC)    | Meier-NSIDC             | Statistical model               | 1              | 1st  December       |  23 December 2025          | SIA                 |
+| 9 | Met Office       | MetOffice               | Dynamical model                 | 42             | 30th November       |  2nd December 2025          | SIA+rSIA+SIC                |
+| 10 | SYSU/SML         | SYSU/SML-ConvLSTM       | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA                         |
+| 11 | SYSU/SML         | SYSU/SML-MLM            | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA+rSIA+SIC                |
+| 12 | SYSU/SML         | SYSU/SML-KNN            | Statistical model               | 1              | 1st  December       |  8th December 2025          | SIA+rSIA+SIC                |
+| 13| UCLouvain        | ucl                     | Dynamical model (ocean-sea ice) | 10             | 1st of December     |  15th December 2025         | SIA+rSIA+SIC+SIV            |
 
 *Initialization date is defined as the date of the last information used to generate the forecast
 
