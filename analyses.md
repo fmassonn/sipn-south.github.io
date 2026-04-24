@@ -32,8 +32,14 @@ We warmly thank the following groups for contributing a forecast this year:
 
 ### Post-season verification graphs
 
-
+With 3.24 million km², February mean Southern Ocean sea ice extent was near climatological levels. This year's value represents a marked rebound compared to 2025.
 <img src="/sipn-south.github.io//pics//2025-2026/figTimeSeries.png"  width="1000"/>
+
+
+The SIPN South ensemble produced forecast sea ice extents that lie within the climatological distribution, and the group forecast matched the observations well in summer. The discrepancy is more clear in the late spring/early summer season where an overestimation takes place in several groups.
 <img src="/sipn-south.github.io//pics//2025-2026/fig1.png"  width="1000"/>
 <img src="/sipn-south.github.io//pics//2025-2026/fig2.png"  width="1000"/>
-<img src="/sipn-south.github.io//pics//2025-2026/CRPS.png"  width="1000"/>
+
+To quantify the relationship between bias and ensemble spread, we use the Continuous Rank Probability Score as in [Massonnet et al. (2023)](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1148899/full). The CRPS is a convenient metric because it penalizes forecasts that are either biased (high or low) or excessively spread out. According to the definition, a CRPS of zero is obtained for a perfect forecast with the mass of the distribution concentrated at the verifying observation value. An interesting feature of this year's forecast is that the group ensemble ranks in the top 5 of the submissions, along with the climatological forecast.
+
+<img src="/sipn-south.github.io//pics//2025-2026/CRPS.png"  width="30%"/>
