@@ -33,6 +33,7 @@ We warmly thank the following groups for contributing a forecast this year:
 ### Post-season verification graphs
 
 
+<img src="/sipn-south.github.io//pics//2025-2026/figTimeSeries.png"  width="1000"/>
 <img src="/sipn-south.github.io//pics//2025-2026/fig1.png"  width="1000"/>
 <img src="/sipn-south.github.io//pics//2025-2026/fig2.png"  width="1000"/>
 <img src="/sipn-south.github.io//pics//2025-2026/CRPS.png"  width="1000"/>
