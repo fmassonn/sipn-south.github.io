@@ -4,7 +4,7 @@
 
 SIPN South organizes the 9th forecasting season of its young history.
 
-Due to the cessation of the production of the OSI-401-b product, the analyses from this forecasting season will rely on [OSI-401d](https://osi-saf.eumetsat.int/products/osi-401-b), as well as the [NSIDC-0081](https://nsidc.org/data/nsidc-0081/versions/2) product. 
+Due to the cessation of the production of the OSI-401-b and NSIDC-0081 products (due itself to the planned decommissionning of SSMI sensors), the analyses from this forecasting season will rely on [OSI-408](https://osi-saf.eumetsat.int/products/osi-408), as well as the [NSIDC-0803](https://nsidc.org/data/nsidc-0803/versions/2) AMSR-based products. 
 
 We warmly thank the following groups for contributing a forecast this year:
 
@@ -30,8 +30,9 @@ We warmly thank the following groups for contributing a forecast this year:
 
 <img src="/sipn-south.github.io//pics/2025-2026/fig2_paper.png"  width="1000"/>
 
-### Preliminary analyses
+### Post-season verification graphs
 
 
 <img src="/sipn-south.github.io//pics//2025-2026/fig1.png"  width="1000"/>
 <img src="/sipn-south.github.io//pics//2025-2026/fig2.png"  width="1000"/>
+<img src="/sipn-south.github.io//pics//2025-2026/CRPS.png"  width="1000"/>
